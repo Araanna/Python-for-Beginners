@@ -5,3 +5,7 @@ b = 1.5         #float
 c = "Hello"     #str
 d = True        #bool
 e = None        #NoneType
+
+# Variables
+# Formatting Strings
+# Conditions
